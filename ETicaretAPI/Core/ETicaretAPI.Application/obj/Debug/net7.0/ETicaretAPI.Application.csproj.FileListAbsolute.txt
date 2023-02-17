@@ -1,0 +1,15 @@
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net7.0\ETicaretAPI.Application.deps.json
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net7.0\ETicaretAPI.Application.dll
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net7.0\ETicaretAPI.Application.pdb
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net7.0\ETicaretAPI.Domain.dll
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\bin\Debug\net7.0\ETicaretAPI.Domain.pdb
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net7.0\ETicaretAPI.Application.csproj.AssemblyReference.cache
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net7.0\ETicaretAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net7.0\ETicaretAPI.Application.AssemblyInfoInputs.cache
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net7.0\ETicaretAPI.Application.AssemblyInfo.cs
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net7.0\ETicaretAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net7.0\ETicaretAPI.Application.csproj.CopyComplete
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net7.0\ETicaretAPI.Application.dll
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net7.0\refint\ETicaretAPI.Application.dll
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net7.0\ETicaretAPI.Application.pdb
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Application\obj\Debug\net7.0\ref\ETicaretAPI.Application.dll

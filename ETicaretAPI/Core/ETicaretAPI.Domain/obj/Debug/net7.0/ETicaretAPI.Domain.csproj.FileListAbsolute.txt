@@ -1,0 +1,12 @@
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Domain\bin\Debug\net7.0\ETicaretAPI.Domain.deps.json
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Domain\bin\Debug\net7.0\ETicaretAPI.Domain.dll
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Domain\bin\Debug\net7.0\ETicaretAPI.Domain.pdb
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net7.0\ETicaretAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net7.0\ETicaretAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net7.0\ETicaretAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net7.0\ETicaretAPI.Domain.AssemblyInfo.cs
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net7.0\ETicaretAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net7.0\ETicaretAPI.Domain.dll
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net7.0\refint\ETicaretAPI.Domain.dll
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net7.0\ETicaretAPI.Domain.pdb
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net7.0\ref\ETicaretAPI.Domain.dll

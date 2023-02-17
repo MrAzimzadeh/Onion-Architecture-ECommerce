@@ -1,0 +1,17 @@
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net7.0\ETicaretAPI.Infrastructure.deps.json
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net7.0\ETicaretAPI.Infrastructure.dll
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net7.0\ETicaretAPI.Infrastructure.pdb
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net7.0\ETicaretAPI.Application.dll
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net7.0\ETicaretAPI.Domain.dll
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net7.0\ETicaretAPI.Application.pdb
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\bin\Debug\net7.0\ETicaretAPI.Domain.pdb
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net7.0\ETicaretAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net7.0\ETicaretAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net7.0\ETicaretAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net7.0\ETicaretAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net7.0\ETicaretAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net7.0\ETicaretAPI.Infrastructure.csproj.CopyComplete
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net7.0\ETicaretAPI.Infrastructure.dll
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net7.0\refint\ETicaretAPI.Infrastructure.dll
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net7.0\ETicaretAPI.Infrastructure.pdb
+C:\Users\mehem\OneDrive\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net7.0\ref\ETicaretAPI.Infrastructure.dll
